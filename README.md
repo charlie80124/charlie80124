@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charlie80124
+- 👋 Hi, I’m charlie hsu 
 - 👀 I’m a iOS Developer (Swift & Objective-C)
 - 🌱 I’m currently learning Rust, Python, SwiftUI
 
